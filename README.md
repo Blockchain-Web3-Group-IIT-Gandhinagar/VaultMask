@@ -91,4 +91,6 @@ Attention: The information above is intended for illustration purposes only. Nev
   - Run `yarn install`
   - Run `yarn start`
 
-`Note: To run this snap, you must be on the Hyperspace testnest and have some tFIL in your account. Go to the [Hyperspace testnet faucet](https://hyperspace.yoga/#faucet), and paste in your Ethereum address. This will send some hyperspace testnet FIL to the account.`
+`Note: To run this snap, you must be on the Hyperspace testnest and have some tFIL in your account.`
+
+Go to the [Hyperspace testnet faucet](https://hyperspace.yoga/#faucet), and paste in your Ethereum address. This will send some hyperspace testnet FIL to the account.
