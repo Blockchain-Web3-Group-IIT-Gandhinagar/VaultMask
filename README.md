@@ -17,6 +17,7 @@
   - [Notifications](#notifications)
 - [Workflow](#workflow)
 - [Demo](#demo)
+- [File Sharing](#file-sharing)
 - [Future possibilities](#future-possibilities)
 
 ## Quick Start
