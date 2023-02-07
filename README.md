@@ -16,6 +16,7 @@
   - [Storage](#storage)
   - [Notifications](#notifications)
 - [Workflow](#workflow)
+- [Demo](#demo)
 - [Future possibilities](#future-possibilities)
 
 ## Quick Start
@@ -91,6 +92,10 @@ The secondary function of vaultmask is storage. It has two kinds of storage op
 - Filecoin storage component: Vaultmask uploads files to web3.storage and a cid hash is generated. It is later stored in smart contract with the filename and other transaction information. We can retrieve the file information and user related data using the methods present in smart contract.
 - Push notifications are shown whenever a channel updates something. It uses push protocol.
 - For improved user experience during the transactions, Vaultmask can show custom messages during pop ups and confirmations.
+
+## Demo
+Following is our demonstration of the snap:
+![Demo]()
 
 ## Future possibilities
 
