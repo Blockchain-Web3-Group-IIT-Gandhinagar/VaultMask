@@ -97,7 +97,7 @@ The secondary function of vaultmask is storage. It has two kinds of storage op
 ## Demo
 ![website](https://github.com/Blockchain-Web3-Group-IIT-Gandhinagar/VaultMask/blob/main/images/2.png)
 Following is our demonstration of the snap:
-![Demo](https://drive.google.com/file/d/1lIwFjRsEJBubV9La7xpzdfmTPpGEEZd2/view)
+[Demo](https://drive.google.com/file/d/1lIwFjRsEJBubV9La7xpzdfmTPpGEEZd2/view)
 
 ## File Sharing
 To perform file sharing:
