@@ -11,12 +11,36 @@
 
 ## Table Of Contents
 
+- [Quick Start](#quick-start)
 - [Features](#features)
   - [Storage](#storage)
   - [Notifications](#notifications)
 - [Workflow](#workflow)
 - [Future possibilities](#future-possibilities)
-- [Steps to Run](#steps-to-run)
+
+## Quick Start
+
+Follow these steps to run the snap on your system:
+
+- Clone the repo.
+- Go to the Hardhat folder and add .env file. Export the private key from your Metamask Flask account and add it to the .env file. Following is an example:
+
+`PRIVATE_KEY = '93890b27049e34dc1c9b954d76c8c366b9aa4349b46bc33391e2bdcb8348ac86'`.
+
+Attention: The information above is intended for illustration purposes only. Never disclose your private keys to anyone.
+
+- In the Hardhat folder:
+
+  - Run `yarn install`
+
+- In the VaultMask folder:
+  - Run `yarn install`
+  - Run `yarn start`
+
+`Note: To run this snap, you must be on the Hyperspace testnest and have some tFIL in your account.`
+
+Go to the [Hyperspace testnet faucet](https://hyperspace.yoga/#faucet), and paste in your Ethereum address. This will send some hyperspace testnet FIL to the account.
+
 
 ## Features
 
@@ -72,25 +96,3 @@ The secondary function of vaultmask is storage. It has two kinds of storage op
 
 The future possibilities of a general purpose storage snap like this is limitless. It can be used in decentralized data marketplaces, improved data management and decentralized data analytics. We believe in the vast potential of vaultmask and will be exploring new features and possibilities in future.
 
-## Steps to Run
-
-Follow these steps to run the snap on your system:
-
-- Clone the repo.
-- Go to the Hardhat folder and add .env file. Export the private key from your Metamask Flask account and add it to the .env file. Following is an example:
-
-`PRIVATE_KEY = '93890b27049e34dc1c9b954d76c8c366b9aa4349b46bc33391e2bdcb8348ac86'`.
-
-Attention: The information above is intended for illustration purposes only. Never disclose your private keys to anyone.
-
-- In the Hardhat folder:
-
-  - Run `yarn install`
-
-- In the VaultMask folder:
-  - Run `yarn install`
-  - Run `yarn start`
-
-`Note: To run this snap, you must be on the Hyperspace testnest and have some tFIL in your account.`
-
-Go to the [Hyperspace testnet faucet](https://hyperspace.yoga/#faucet), and paste in your Ethereum address. This will send some hyperspace testnet FIL to the account.
