@@ -95,8 +95,18 @@ The secondary function of vaultmask is storage. It has two kinds of storage op
 - For improved user experience during the transactions, Vaultmask can show custom messages during pop ups and confirmations.
 
 ## Demo
+![website](https://github.com/Blockchain-Web3-Group-IIT-Gandhinagar/VaultMask/blob/main/images/2.png)
 Following is our demonstration of the snap:
 ![Demo]()
+
+## File Sharing
+To perform file sharing:
+- Upload the file and submit. It will load for a few moments before MetaMask pops up.
+![upload and submit](https://github.com/Blockchain-Web3-Group-IIT-Gandhinagar/VaultMask/blob/main/images/1.png)
+- As you can see, the file is added in table.
+![table](https://github.com/Blockchain-Web3-Group-IIT-Gandhinagar/VaultMask/blob/main/images/3.png)
+- Afterwads, enter the address of the account that you want the file to be shared with. Click on the file you want to share.
+![sharing](https://github.com/Blockchain-Web3-Group-IIT-Gandhinagar/VaultMask/blob/main/images/4.png)
 
 ## Future possibilities
 
