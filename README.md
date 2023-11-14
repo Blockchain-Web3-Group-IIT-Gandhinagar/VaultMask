@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 <p align="center">
-    <img src="https://github.com/MumukshTayal/Inter-IIT-Project_files/blob/add_file_ethereum/vaultmask_logo-01.png" alt="VaultMask Logo">
+    <img src="https://github.com/Blockchain-Web3-Group-IIT-Gandhinagar/VaultMask/blob/main/images/vaultmask_logo-01.png" alt="VaultMask Logo">
 </p>
 
 `Vautlmask` is an extension of metamask that focusses on **decentralized** storage and improving the **user experience**.
@@ -87,7 +87,7 @@ The secondary function of vaultmask is storage. It has two kinds of storage op
 
 ## Workflow
 
-![workflow](https://github.com/MumukshTayal/Inter-IIT-Project_files/blob/add_file_ethereum/vautmask_flow.png)
+![workflow](https://github.com/Blockchain-Web3-Group-IIT-Gandhinagar/VaultMask/blob/main/images/vautmask_flow.png)
 
 - Snaps component: Vaultmask can store the data on snaps storage and get the data on demand. It also has a function to clear data.
 - Filecoin storage component: Vaultmask uploads files to web3.storage and a cid hash is generated. It is later stored in smart contract with the filename and other transaction information. We can retrieve the file information and user related data using the methods present in smart contract.
